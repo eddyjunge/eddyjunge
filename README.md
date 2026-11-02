@@ -17,7 +17,6 @@ Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www
 
 - **Inner District** — Web presence and shop for a fashion brand (TypeScript)
 - **Jade & More** — Online shop with Convex, Stripe and Cloudflare
-- **DSC Offenbach Ordering App** — Ordering system for a local sports club
 
 ### Everything Else
 
