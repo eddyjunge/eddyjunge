@@ -1,6 +1,6 @@
 Videographer & developer. **52K+ followers on [TikTok](https://www.tiktok.com/@eddyjnge)**, 1.1M likes. I build the tools I wish I had on set.
 
-Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www.instagram.com/eddyjnge/), [YouTube](https://www.youtube.com/@eddyjunge), or [my portfolio](https://eddy-video-portfolio-new.netlify.app)
+Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www.instagram.com/eddyjnge/) or [YouTube](https://www.youtube.com/@eddyjunge).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -11,7 +11,7 @@ Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www
 
 ### Products
 
-- **[Latitude](https://github.com/eddyjunge/latitude)** — Room to grade. An Android camera app that records Apple Log footage, built for DaVinci Resolve
+- **[Latitude](https://github.com/eddyjunge/Latitude)** — Room to grade. An Android camera app that records Apple Log footage, built for DaVinci Resolve
 
 ### Client Work
 
@@ -21,7 +21,6 @@ Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www
 
 ### Everything Else
 
-- **[Portfolio](https://eddy-video-portfolio-new.netlify.app)** — Commercials, sports and event films
 - **HSK 6 Trainer** — Vocabulary trainer for the hardest Chinese proficiency level
 - **Resolve Caption Cleaner** — Fixes auto-generated subtitles in DaVinci Resolve
 
