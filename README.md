@@ -4,7 +4,7 @@ Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" width="100%" alt="52.6K TikTok followers · 1.1M likes · 1.67K YouTube subscribers · 200+ videos published">
+  <img src="assets/stats-light.svg" width="100%" alt="52.6K TikTok followers · 1.1M likes · 6.7M+ views across platforms · 200+ videos published">
 </picture>
 
 ## Current Projects
