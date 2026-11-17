@@ -1,6 +1,6 @@
 Videographer & developer. **52K+ followers on [TikTok](https://www.tiktok.com/@eddyjnge)**, 1.1M likes. I build the tools I wish I had on set.
 
-Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www.instagram.com/eddyjnge/) or [YouTube](https://www.youtube.com/@eddyjunge).
+Check out my [TikTok](https://www.tiktok.com/@eddyjnge) (new channel: [@eddy6018](https://www.tiktok.com/@eddy6018)), [Instagram](https://www.instagram.com/eddyjnge/) or [YouTube](https://www.youtube.com/@eddyjunge).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
