@@ -13,6 +13,13 @@ Check out my [TikTok](https://www.tiktok.com/@eddyjnge), [Instagram](https://www
 
 - **[Latitude](https://github.com/eddyjunge/Latitude)** — Room to grade. An Android camera app that records Apple Log footage, built for DaVinci Resolve
 
+### Hackathons
+
+Built with [Jonas](https://github.com/jonassneu):
+
+- **[GestureLink](https://github.com/jonassneu/GestureLink)** — Your hand is the mouse. An Android phone's camera tracks your gestures and controls a Windows PC. Winner of a 3 h Cursor hackathon (Kotlin)
+- **[Eastbound or Westbound?](https://github.com/jonassneu/fraalliance-hackmeck)** — Forecasts Frankfurt Airport's operating direction 48 h ahead. FraAlliance challenge, AI Week Frankfurt 2026
+
 ### Client Work
 
 - **Inner District** — Web presence and shop for a fashion brand (TypeScript)
